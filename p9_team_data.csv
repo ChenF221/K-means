@@ -1,0 +1,642 @@
+team,off,def
+Man. City,2.8,0.3
+Bayern Munich,3.0,0.7
+Barcelona,2.4,0.4
+Real Madrid,2.6,0.6
+Liverpool,2.6,0.7
+Arsenal,2.5,0.6
+Newcastle,2.4,0.5
+Napoli,2.3,0.5
+Dortmund,2.8,0.8
+Brighton,2.5,0.7
+RB Leipzig,2.4,0.7
+Benfica,2.4,0.7
+Aston Villa,2.0,0.5
+Atlético Madrid,2.3,0.7
+PSG,2.6,0.9
+Man. United,2.4,0.7
+Inter Milan,2.3,0.8
+Ajax,2.7,1.0
+Lille,2.1,0.6
+Brentford,2.1,0.7
+Real Sociedad,1.9,0.5
+Sporting,2.1,0.7
+Porto,2.2,0.7
+Chelsea,2.0,0.7
+Feyenoord,2.3,0.9
+Lyon,2.3,0.9
+Rennes,2.0,0.7
+Leverkusen,2.0,0.7
+Athletic Bilbao,1.8,0.6
+Celtic,2.5,1.1
+Zenit,2.0,0.7
+Fiorentina,2.1,0.8
+Twente,2.2,0.9
+Marseille,2.1,0.8
+PSV,2.4,1.0
+Crystal Palace,1.8,0.6
+Villarreal,2.1,0.9
+Lens,2.0,0.7
+AC Milan,2.0,0.8
+Roma,1.8,0.7
+RB Salzburg,2.1,0.8
+1. FC Köln,2.0,0.8
+Tottenham,2.2,1.0
+Rangers,2.3,1.0
+Eintracht,2.1,0.9
+West Ham,1.9,0.8
+Atalanta,2.1,0.9
+Wolfsburg,2.1,0.9
+Juventus,1.9,0.8
+Torino,1.7,0.7
+Sevilla,1.8,0.8
+Mainz,2.1,1.0
+Palmeiras,1.8,0.8
+Valencia,1.7,0.8
+Lazio,1.8,0.8
+Fulham,1.9,0.9
+Beşiktaş,2.1,1.1
+Celta Vigo,1.7,0.8
+Nice,1.7,0.8
+VfB Stuttgart,2.0,1.0
+Gladbach,2.1,1.1
+Galatasaray,2.0,1.0
+AZ Alkmaar,1.9,1.0
+Girona,1.9,1.0
+Real Betis,1.7,0.8
+SC Freiburg,1.9,1.0
+Flamengo,1.9,1.0
+Strasbourg,1.8,0.9
+Union Berlin,1.7,0.8
+Osasuna,1.6,0.8
+Young Boys,2.1,1.2
+Atlético Mineiro,1.5,0.8
+Getafe,1.5,0.7
+Monaco,2.0,1.1
+Leicester,1.9,1.0
+Gent,1.9,1.1
+Reims,1.7,0.9
+Bologna,1.8,1.0
+Werder Bremen,1.9,1.1
+Fenerbahçe,2.0,1.2
+Monterrey,1.6,0.8
+Everton,1.8,1.0
+Hoffenheim,2.0,1.2
+Sassuolo,1.9,1.1
+Slavia Prague,1.8,1.1
+Braga,1.8,1.0
+Bodø/Glimt,2.2,1.3
+Burnley,1.5,0.8
+Rayo Vallecano,1.7,0.9
+Olympiacos,1.7,1.0
+Dinamo Zagreb,1.8,1.1
+Genk,2.1,1.3
+Clermont,1.6,0.9
+AEK Athens,1.6,0.9
+Club Brugge,1.8,1.2
+Tigres UANL,1.5,0.9
+Club América,1.8,1.1
+Toulouse,1.6,1.0
+Udinese,1.7,1.1
+Lecce,1.5,0.9
+Mallorca,1.5,0.9
+Antwerp,1.5,1.0
+Bournemouth,1.7,1.1
+Schalke 04,1.8,1.2
+CSKA Moscow,1.5,1.0
+Wolves,1.6,1.0
+Leeds United,1.8,1.3
+Sturm Graz,1.7,1.1
+River Plate,1.6,1.0
+Espanyol,1.9,1.3
+Monza,1.7,1.1
+Vitesse,1.6,1.1
+São Paulo,1.5,1.0
+Montpellier,1.8,1.2
+Slovácko,1.8,1.2
+Red Star,1.8,1.2
+Cádiz,1.5,1.0
+Demirspor,1.9,1.3
+Copenhagen,1.7,1.2
+Union SG,1.8,1.3
+Botafogo,1.5,1.0
+Utrecht,1.8,1.2
+Shakhtar,1.8,1.2
+Elche,1.6,1.1
+Almería,1.7,1.2
+FC Augsburg,1.7,1.2
+Southampton,1.7,1.2
+Sheffield Utd,1.5,1.0
+VfL Bochum,1.8,1.4
+Fluminense,1.5,1.1
+Nottm Forest,1.6,1.2
+Sparta,1.7,1.2
+Middlesbrough,1.6,1.2
+Brest,1.5,1.1
+Midtjylland,1.7,1.2
+Luton Town,1.4,0.9
+Pachuca,1.6,1.2
+Viktoria Plzen,1.8,1.4
+Krasnodar,1.7,1.3
+Ferencváros,1.6,1.2
+Internacional,1.4,1.0
+Lokomotiv,1.6,1.3
+Trabzonspor,1.8,1.4
+Valladolid,1.6,1.2
+Hertha BSC,1.7,1.4
+Philadelphia,1.6,1.3
+Lorient,1.5,1.1
+Bragantino,1.5,1.1
+Empoli,1.6,1.2
+LAFC,1.6,1.3
+Spartak Moscow,1.6,1.3
+Dynamo Kiev,1.5,1.2
+Fortaleza,1.3,1.0
+Ipswich Town,1.6,1.3
+Guimarães,1.3,1.0
+Başakşehir,1.4,1.1
+Molde,1.8,1.5
+Anderlecht,1.5,1.2
+León,1.3,1.1
+Atlético-PR,1.4,1.1
+Dnipro-1,1.6,1.3
+Atlas,1.4,1.1
+Lech Poznań,1.4,1.1
+Swansea City,1.5,1.2
+Austria Vienna,1.7,1.5
+Steaua Bucuresti,1.5,1.2
+Karagümrükspor,1.8,1.6
+Akhmat Grozny,1.5,1.2
+Go Ahead,1.6,1.4
+Yokohama FM,1.7,1.5
+Cercle Brugge,1.6,1.4
+Sheriff,1.5,1.3
+Partizan,1.4,1.2
+Nantes,1.3,1.1
+LASK Linz,1.5,1.3
+Vasco da Gama,1.4,1.2
+Corinthians,1.2,1.0
+Coventry City,1.3,1.1
+PAOK,1.4,1.2
+Guadalajara,1.4,1.1
+Santos,1.3,1.0
+Famalicão,1.4,1.2
+Verona,1.4,1.2
+Cruz Azul,1.3,1.1
+Vissel Kobe,1.5,1.3
+Konyaspor,1.4,1.2
+Metz,1.3,1.1
+Boavista,1.4,1.2
+Frosinone,1.4,1.2
+Heerenveen,1.7,1.5
+Cruzeiro,1.4,1.2
+Talleres,1.3,1.2
+Argentinos,1.3,1.1
+Qarabağ,1.4,1.3
+Maccabi Haifa,1.7,1.5
+Malmö,1.6,1.4
+Hapoel Be'er,1.5,1.3
+Häcken,1.8,1.6
+Spezia,1.4,1.3
+NEC,1.5,1.4
+Toluca,1.6,1.4
+Salernitana,1.5,1.4
+West Brom,1.4,1.2
+Gil Vicente,1.4,1.2
+Rapid Vienna,1.6,1.5
+Chaves,1.4,1.3
+Auxerre,1.3,1.2
+Cagliari,1.2,1.1
+FC Cincinnati,1.5,1.4
+Vizela,1.2,1.1
+Santos Laguna,1.4,1.3
+Stoke City,1.2,1.2
+AGF Aarhus,1.3,1.2
+Cremonese,1.5,1.4
+Arouca,1.2,1.1
+Orenburg,1.6,1.5
+Boca Juniors,1.1,1.0
+Atlanta,1.6,1.5
+Panathinaikos,1.0,0.9
+Millwall,1.3,1.3
+Genoa,1.2,1.2
+Aris,1.4,1.3
+Grêmio,1.4,1.4
+Angers,1.3,1.3
+Estudiantes,1.2,1.1
+Dinamo Moscow,1.4,1.4
+Nashville,1.3,1.3
+St. Gallen,1.7,1.7
+Casa Pia,1.2,1.2
+St Étienne,1.5,1.5
+Rio Ave,1.2,1.2
+Urawa Reds,1.2,1.2
+Sunderland,1.3,1.3
+Bahía,1.2,1.3
+Norwich,1.2,1.2
+Brøndby,1.6,1.6
+Watford,1.3,1.3
+Elfsborg,1.5,1.5
+Bordeaux,1.1,1.1
+América Mineiro,1.3,1.3
+Westerlo,1.6,1.6
+Kawasaki,1.4,1.4
+AEK Larnaca,1.2,1.2
+Apollon Limassol,1.2,1.2
+Columbus,1.4,1.5
+Seattle,1.3,1.4
+Lugano,1.4,1.5
+NYCFC,1.3,1.3
+OH Leuven,1.4,1.5
+NY Red Bulls,1.1,1.2
+San Lorenzo,0.9,0.9
+Blackburn,1.2,1.2
+Santa Clara,1.3,1.3
+FC St. Pauli,1.3,1.4
+Rostov,1.4,1.5
+Marítimo,1.3,1.4
+Hibernian,1.3,1.4
+Bristol City,1.2,1.2
+Hearts,1.4,1.5
+Rosenborg,1.5,1.7
+Nordsjælland,1.3,1.5
+Lanús,1.2,1.3
+CFR Cluj,1.2,1.3
+Orlando City,1.3,1.5
+Wolfsberg,1.4,1.6
+Levante,1.1,1.1
+Viborg,1.2,1.3
+D.C. United,1.3,1.5
+Kashima Antlers,1.2,1.3
+Tenerife,1.0,1.1
+FC Dallas,1.2,1.3
+New England,1.4,1.6
+Cuiabá,1.1,1.2
+Basel,1.4,1.6
+Vancouver,1.4,1.6
+Ludogorets,1.3,1.5
+Nagoya,1.1,1.3
+Hamburger SV,1.5,1.7
+Parma,1.1,1.3
+Puebla,1.3,1.5
+Sampdoria,1.4,1.6
+Standard Liège,1.4,1.6
+Motherwell,1.2,1.4
+Silkeborg,1.4,1.6
+Andorra,1.0,1.2
+Charleroi,1.3,1.5
+Zürich,1.4,1.6
+Sint-Truidense,1.1,1.3
+Vélez Sarsfield,1.0,1.1
+Pumas UNAM,1.2,1.5
+SC Paderborn,1.4,1.7
+Portimonense,1.2,1.4
+Justicia,1.1,1.3
+Bastia,1.2,1.4
+Estoril,1.2,1.4
+Portland,1.3,1.5
+Granada,1.0,1.2
+Bari,1.1,1.3
+M. Sundowns,1.0,1.3
+Sanfrecce,1.2,1.4
+Servette,1.3,1.6
+San Luis,1.2,1.4
+LA Galaxy,1.4,1.7
+Volendam,1.5,1.8
+RKC,1.5,1.8
+Caen,1.2,1.4
+Odense,1.4,1.6
+Goiás,1.1,1.4
+Sivasspor,1.2,1.5
+Kasımpaşa,1.3,1.6
+Coritiba,1.1,1.4
+Guingamp,1.1,1.4
+Tigre,1.1,1.4
+Minnesota,1.3,1.6
+Venezia,1.2,1.5
+Necaxa,1.1,1.3
+Rosario Central,1.1,1.4
+Hull City,1.0,1.3
+Fortuna,1.3,1.6
+Lillestrøm,1.3,1.6
+Kayserispor,1.4,1.7
+Aberdeen,1.1,1.4
+Paris FC,1.1,1.3
+Preston,1.1,1.4
+Brann,1.3,1.6
+Zaragoza,0.9,1.2
+Omonia Nicosia,1.3,1.6
+Sporting KC,1.2,1.5
+Albacete,1.1,1.4
+Antalyaspor,1.2,1.5
+Luzern,1.3,1.7
+Racing,1.2,1.5
+Cerezo Osaka,1.1,1.4
+Fortuna Sittard,1.4,1.7
+Alavés,0.9,1.1
+Newell's,0.8,1.1
+Karlsruher SC,1.3,1.7
+Tijuana,1.2,1.5
+Le Havre,0.8,1.0
+San Jose,1.3,1.6
+AC Ajaccio,1.0,1.3
+Slovan,1.1,1.4
+Ural,1.0,1.3
+Heidenheim,1.2,1.6
+Consa,1.6,2.0
+Krylia Sovetov,1.0,1.3
+Sheffield Wed.,1.1,1.4
+Mechelen,1.5,1.9
+Toronto FC,1.2,1.5
+Montréal,1.2,1.6
+Huracán,0.9,1.2
+Djurgården,1.2,1.6
+Paços Ferreira,1.1,1.5
+FC Juárez,1.0,1.4
+Eibar,0.9,1.2
+Viking,1.5,2.0
+Independiente,1.0,1.4
+Colón,1.0,1.4
+Barnsley,1.3,1.7
+Sochi,1.1,1.5
+Charlotte FC,1.2,1.7
+Birmingham,1.0,1.4
+Alanyaspor,1.4,1.9
+Cardiff City,1.0,1.4
+WSG Tirol,1.3,1.8
+Las Palmas,0.9,1.3
+Godoy Cruz,1.0,1.4
+Banfield,0.9,1.3
+Randers,1.2,1.6
+Greuther Fürth,1.1,1.5
+Ankaragücü,1.1,1.5
+İstanbulspor,1.2,1.6
+Chicago,1.2,1.6
+Querétaro,1.0,1.4
+Troyes,1.2,1.7
+Fakel Voronezh,1.0,1.4
+Wigan,0.9,1.3
+Groningen,1.2,1.7
+Excelsior,1.3,1.7
+Lustenau,1.3,1.8
+Austin FC,1.2,1.7
+Como,1.1,1.5
+Sochaux,1.0,1.5
+Houston,1.2,1.7
+Huddersfield,1.0,1.4
+Emmen,1.2,1.8
+Grasshoppers,1.4,2.0
+Vålerenga,1.2,1.8
+Nizhny Novgorod,0.9,1.4
+SK Austria,1.3,1.9
+Colorado,1.1,1.6
+QPR,1.0,1.5
+Hammarby,1.2,1.8
+Holstein Kiel,1.3,1.9
+Darmstadt 98,1.1,1.6
+Real Salt Lake,1.1,1.6
+Mazatlán,1.1,1.7
+Instituto,1.0,1.5
+Atlético,0.9,1.4
+Ballkani,1.2,1.8
+Melbourne City,1.3,1.9
+Leganés,0.9,1.3
+FC Tokyo,1.2,1.7
+Sarmiento,0.9,1.4
+Platense,0.8,1.3
+Hartberg,1.2,1.8
+Pisa,0.9,1.4
+Belgrano,0.9,1.4
+Cambuur,1.2,1.9
+Rotherham,1.0,1.5
+Gimnasia,0.9,1.4
+Südtirol,0.7,1.2
+St. Louis,1.1,1.7
+Sagan Tosu,0.9,1.5
+Bolton,0.9,1.4
+Oviedo,0.8,1.3
+Sarpsborg,1.1,1.8
+Tromsø,1.1,1.7
+Ümraniyespor,1.1,1.8
+Palermo,1.1,1.7
+Riga FS,1.2,1.8
+AaB,1.0,1.6
+Villarreal B,1.0,1.6
+Giresunspor,1.1,1.7
+1. FCK,1.0,1.6
+Málaga,0.8,1.3
+Blackpool,1.1,1.7
+Plymouth Argyle,1.0,1.7
+Racing,0.9,1.4
+Dijon FCO,0.8,1.4
+Central Córdoba,0.9,1.5
+Barracas Central,0.9,1.5
+Žalgiris,1.1,1.8
+St Mirren,0.9,1.6
+C.C. Mariners,1.3,2.0
+Unión,0.9,1.5
+Peterborough,1.0,1.7
+Norrköping,1.1,1.8
+Derby County,0.9,1.6
+Cartagena,0.9,1.5
+Vaduz,1.0,1.6
+Sporting Gijón,0.9,1.5
+Kortrijk,1.1,1.8
+Inter Miami,1.1,1.8
+Kalmar,1.0,1.6
+Reading,0.9,1.6
+US Quevilly,1.0,1.7
+Ascoli,0.8,1.5
+Huesca,0.7,1.4
+Odd,0.9,1.6
+Kilmarnock,0.9,1.6
+St Johnstone,0.9,1.6
+OFI,0.9,1.6
+Mirandés,0.9,1.6
+Valenciennes,0.9,1.6
+Arminia,1.1,2.0
+1. FC Magdeburg,1.1,1.9
+Modena,0.9,1.7
+Reggina,0.8,1.6
+Rodez,0.7,1.4
+HJK Helsinki,0.9,1.7
+Grenoble,0.6,1.2
+Lyngby,0.9,1.6
+Guangzhou E.,1.1,1.9
+Portsmouth,0.8,1.6
+Zulte Waregem,1.4,2.3
+Pau,0.9,1.7
+Cittadella,0.7,1.4
+Avispa Fukuoka,0.8,1.6
+Hannover 96,1.1,2.0
+Kashiwa Reysol,0.9,1.8
+Ross County,0.9,1.8
+Amiens,0.8,1.6
+Orlando Pirates,0.8,1.5
+SPAL,0.8,1.6
+Ponferradina,0.8,1.6
+Perugia,0.8,1.7
+Nîmes,1.0,1.9
+Atromitos,0.7,1.5
+Arsenal,0.7,1.5
+Strømsgodset,1.0,1.9
+San Antonio,0.9,1.7
+Kyoto Purple Sanga,0.8,1.7
+Burgos,0.7,1.5
+AIK,0.8,1.7
+Gamba Osaka,0.9,1.8
+Stabæk,0.9,1.9
+Livingston,0.8,1.7
+Rheindorf Altach,0.8,1.7
+Sydney FC,1.1,2.0
+Ternana,0.8,1.7
+Charlton Athletic,1.0,1.9
+Ried,0.9,1.8
+Western Sydney,1.0,2.0
+Shonan,0.8,1.7
+Laval,0.8,1.8
+Benevento,0.8,1.7
+Beijing Guoan,1.0,2.0
+Nürnberg,0.8,1.7
+Louisville City,0.8,1.8
+Dundee Utd,0.9,1.9
+Wycombe,0.8,1.7
+Haugesund,0.9,1.9
+Annecy,0.8,1.7
+Shanghai SIPG,0.9,1.9
+Regensburg,0.9,1.9
+San Diego Loyal,0.9,2.0
+Tampa Bay,0.9,1.9
+Pyunik,0.9,1.9
+Göteborg,0.8,1.8
+Ibiza,0.7,1.7
+Fleetwood Town,0.8,1.7
+Hansa Rostock,0.8,1.8
+Sacramento,0.8,1.8
+FC Khimki,0.8,1.9
+Oostende,1.0,2.2
+Winterthur,0.8,1.9
+Brescia,0.7,1.7
+Giannina,0.7,1.7
+Horsens,0.9,2.0
+Phoenix Rising,0.9,2.0
+Memphis 901,1.0,2.1
+Lincoln City,0.6,1.6
+Braunschweig,0.9,2.0
+Adelaide United,1.1,2.3
+Albirex Niigata,0.8,1.9
+Eupen,1.0,2.2
+Exeter City,0.8,2.0
+Asteras Tripoli,0.5,1.4
+Sandefjord,0.9,2.1
+Melbourne Vic,0.8,1.9
+Sion,1.0,2.2
+Sirius,0.8,1.9
+C.S. Switchbacks,0.8,1.9
+Torpedo Moscow,0.7,1.9
+Lugo,0.6,1.6
+Cosenza,0.5,1.6
+Shamrock Rovers,0.7,1.8
+Mjällby,0.6,1.6
+Oxford United,0.6,1.8
+Cape Town City,0.6,1.6
+Seraing,0.8,2.0
+Oakland Roots,0.7,2.0
+Brommapojkarna,0.7,1.9
+Stellenbosch,0.6,1.8
+Volos,0.7,1.9
+Burton Albion,0.7,2.0
+Aalesund,0.7,2.0
+El Paso,0.7,2.0
+Niort,0.7,2.0
+Ionikos,0.6,1.8
+Levadiakos,0.6,1.8
+Shrewsbury,0.6,1.9
+SuperSport Utd,0.5,1.6
+SV Sandhausen,0.7,2.0
+Shandong,0.8,2.2
+Salford City,0.8,2.2
+Jiangsu Suning,0.7,2.0
+Cheltenham,0.7,2.0
+GFK,0.7,2.1
+Halmstad,0.6,1.9
+Mansfield Town,0.7,2.1
+MK Dons,0.6,1.9
+Panetolikos,0.6,2.0
+New Mexico,0.7,2.0
+Yokohama FC,0.7,2.0
+Stockport County,0.5,1.7
+HamKam,0.7,2.1
+Värnamo,0.6,1.9
+Pittsburgh,0.5,1.8
+Bristol Rovers,0.6,2.1
+Western United,0.8,2.3
+W. Phoenix,0.8,2.4
+Orange County,0.6,2.0
+TS Galaxy,0.4,1.6
+Kaizer Chiefs,0.5,1.8
+Birmingham,0.7,2.2
+Brisbane Roar,0.6,2.1
+Lamia,0.5,1.9
+Newcastle Jets,0.7,2.3
+Degerfors,0.7,2.3
+Port Vale,0.6,2.2
+AmaZulu,0.4,1.8
+Bradford City,0.5,2.0
+Swindon Town,0.6,2.2
+The Miami FC,0.5,2.1
+Leyton Orient,0.4,1.8
+Carlisle United,0.4,1.9
+Morecambe,0.6,2.3
+Golden Arrows,0.4,2.0
+Newport County,0.5,2.1
+Hatayspor,0.6,2.3
+Royal AM,0.5,2.1
+Perth Glory,0.6,2.3
+Sekhukhune,0.2,1.6
+Cambridge,0.4,2.0
+Stevenage,0.4,1.9
+Northampton,0.3,1.9
+Hartford Athletic,0.6,2.4
+Monterey Bay,0.5,2.2
+Indy Eleven,0.4,2.1
+Tianjin Teda,0.5,2.3
+Macarthur FC,0.6,2.5
+Varbergs BoIS,0.5,2.3
+Charleston,0.4,2.2
+Shenhua,0.6,2.5
+Harrogate Town,0.5,2.4
+Moroka Swallows,0.2,1.8
+FC Tulsa,0.5,2.4
+RGV Toros,0.4,2.2
+Hebei CF,0.5,2.4
+Colchester,0.3,1.9
+Henan Jianye,0.5,2.4
+Las Vegas Lights,0.4,2.3
+Gillingham,0.3,1.9
+Dalian Yifang,0.5,2.5
+Marumo Gallants,0.2,1.9
+Guangzhou R&F,0.7,2.9
+Maritzburg Utd,0.3,2.0
+Stanley,0.4,2.3
+Wuhan Zall,0.4,2.3
+Crewe Alexandra,0.4,2.2
+Detroit City,0.3,2.1
+Richards Bay,0.2,1.9
+Rochdale,0.4,2.4
+Grimsby Town,0.3,2.2
+Chippa United,0.3,2.2
+Tranmere Rovers,0.2,2.0
+Loudoun United,0.4,2.5
+Tianjin Quanjian,0.4,2.5
+Barrow,0.2,2.1
+Shenzhen,0.4,2.6
+Chongqing Lifan,0.3,2.3
+Hartlepool,0.4,2.6
+Walsall,0.2,2.1
+Sutton United,0.2,2.3
+Wimbledon,0.2,2.3
+Doncaster,0.2,2.4
+Forest Green,0.2,2.4
+Crawley Town,0.2,2.4
+Beijing Renhe,0.2,2.6
